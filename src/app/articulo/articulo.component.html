@@ -1,0 +1,16 @@
+<!--- TODO: Agregar descuento en la card-->
+<mat-card class="articulo-card">
+  <mat-card-header>
+    <mat-card-title class="articulo-nombre">{{ titulo }}</mat-card-title>
+    <mat-card-subtitle class="articulo-precio">${{ precio }}</mat-card-subtitle>
+  </mat-card-header>
+  <img src="{{ imgSource }}" alt="" />
+  <mat-card-content>
+    <p>
+      {{ descripcion }}
+    </p>
+  </mat-card-content>
+  <mat-card-actions>
+    <button class="articulo-btn" mat-button>AGREGAR A CARRITO</button>
+  </mat-card-actions>
+</mat-card>

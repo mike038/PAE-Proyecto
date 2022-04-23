@@ -1,0 +1,202 @@
+[
+    {
+        "_id": {
+            "$oid": "6263ac6ea4c6a903609bc956"
+        },
+        "Nombre": "Articulo 1",
+        "Descripcion": "EL articulo es de tales dimesiones, materiales,colores, uso , etcccccccc",
+        "Imagen": "../../assets/img/",
+        "Costo": {
+            "$numberDouble": "420.69"
+        },
+        "Usuario": {
+            "$numberInt": "12345"
+        },
+        "Descuento": {
+            "$numberDouble": "20.69"
+        },
+        "Cantidad": {
+            "$numberInt": "5"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6263ad64a4c6a903609bc957"
+        },
+        "Nombre": "Articulo 2",
+        "Descripcion": "El articuloses de tales dimensiones, materiales, colores, us, etcccccccccccccc",
+        "Imagen": "../../assets/img/",
+        "Costo": {
+            "$numberDouble": "6969.42"
+        },
+        "Usuario": {
+            "$numberInt": "54321"
+        },
+        "Descuento": {
+            "$numberDouble": "69.42"
+        },
+        "Cantidad": {
+            "$numberInt": "10"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6263ac6ea4c6a903609bc956"
+        },
+        "Nombre": "Articulo 3",
+        "Descripcion": "EL articulo es de tales dimesiones, materiales,colores, uso , etcccccccc",
+        "Imagen": "../../assets/img/",
+        "Costo": {
+            "$numberDouble": "420.69"
+        },
+        "Usuario": {
+            "$numberInt": "12345"
+        },
+        "Descuento": {
+            "$numberDouble": "20.69"
+        },
+        "Cantidad": {
+            "$numberInt": "5"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6263ac6ea4c6a903609bc956"
+        },
+        "Nombre": "Articulo 4",
+        "Descripcion": "EL articulo es de tales dimesiones, materiales,colores, uso , etcccccccc",
+        "Imagen": "../../assets/img/",
+        "Costo": {
+            "$numberDouble": "420.69"
+        },
+        "Usuario": {
+            "$numberInt": "12345"
+        },
+        "Descuento": {
+            "$numberDouble": "20.69"
+        },
+        "Cantidad": {
+            "$numberInt": "5"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6263ac6ea4c6a903609bc956"
+        },
+        "Nombre": "Articulo 5",
+        "Descripcion": "EL articulo es de tales dimesiones, materiales,colores, uso , etcccccccc",
+        "Imagen": "../../assets/img/",
+        "Costo": {
+            "$numberDouble": "420.69"
+        },
+        "Usuario": {
+            "$numberInt": "12345"
+        },
+        "Descuento": {
+            "$numberDouble": "20.69"
+        },
+        "Cantidad": {
+            "$numberInt": "5"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6263ad64a4c6a903609bc957"
+        },
+        "Nombre": "Articulo 6",
+        "Descripcion": "El articuloses de tales dimensiones, materiales, colores, us, etcccccccccccccc",
+        "Imagen": "../../assets/img/",
+        "Costo": {
+            "$numberDouble": "6969.42"
+        },
+        "Usuario": {
+            "$numberInt": "54321"
+        },
+        "Descuento": {
+            "$numberDouble": "69.42"
+        },
+        "Cantidad": {
+            "$numberInt": "10"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6263ac6ea4c6a903609bc956"
+        },
+        "Nombre": "Articulo 7",
+        "Descripcion": "EL articulo es de tales dimesiones, materiales,colores, uso , etcccccccc",
+        "Imagen": "../../assets/img/",
+        "Costo": {
+            "$numberDouble": "420.69"
+        },
+        "Usuario": {
+            "$numberInt": "12345"
+        },
+        "Descuento": {
+            "$numberDouble": "20.69"
+        },
+        "Cantidad": {
+            "$numberInt": "5"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6263ac6ea4c6a903609bc956"
+        },
+        "Nombre": "Articulo 8",
+        "Descripcion": "EL articulo es de tales dimesiones, materiales,colores, uso , etcccccccc",
+        "Imagen": "../../assets/img/",
+        "Costo": {
+            "$numberDouble": "420.69"
+        },
+        "Usuario": {
+            "$numberInt": "12345"
+        },
+        "Descuento": {
+            "$numberDouble": "20.69"
+        },
+        "Cantidad": {
+            "$numberInt": "5"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6263ac6ea4c6a903609bc956"
+        },
+        "Nombre": "Articulo 9",
+        "Descripcion": "EL articulo es de tales dimesiones, materiales,colores, uso , etcccccccc",
+        "Imagen": "../../assets/img/",
+        "Costo": {
+            "$numberDouble": "420.69"
+        },
+        "Usuario": {
+            "$numberInt": "12345"
+        },
+        "Descuento": {
+            "$numberDouble": "20.69"
+        },
+        "Cantidad": {
+            "$numberInt": "5"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6263ac6ea4c6a903609bc956"
+        },
+        "Nombre": "Articulo 10",
+        "Descripcion": "EL articulo es de tales dimesiones, materiales,colores, uso , etcccccccc",
+        "Imagen": "../../assets/img/",
+        "Costo": {
+            "$numberDouble": "420.69"
+        },
+        "Usuario": {
+            "$numberInt": "12345"
+        },
+        "Descuento": {
+            "$numberDouble": "20.69"
+        },
+        "Cantidad": {
+            "$numberInt": "5"
+        }
+    }
+]

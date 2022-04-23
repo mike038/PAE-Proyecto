@@ -1,0 +1,15 @@
+<mat-grid-list
+  [cols]="breakpoint"
+  rowHeight="600px"
+  (window:resize)="onResize($event)"
+>
+  <mat-grid-tile class="grid-articulo" *ngFor="let item of data">
+    <app-articulo
+      [imgSource]="item.Imagen"
+      [titulo]="item.Nombre"
+      [precio]="item.Costo.$numberDouble"
+      [descripcion]="item.Descripcion"
+      [descuento]="item.Descuento.$numberDouble"
+    ></app-articulo>
+  </mat-grid-tile>
+</mat-grid-list>
